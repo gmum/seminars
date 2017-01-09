@@ -16,7 +16,7 @@ Repository for seminar slides in ipython notebook format.
 | 2.03  |                                                    |                                                            |
 | 9.03  |                                                    |                                                            |
 
-### Informal Seminar (Fridays 1 pm.)
+### Tea Seminar (Fridays 1 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 3.03  | mgr Magda Wiercioch                                | TBD                                                        |
