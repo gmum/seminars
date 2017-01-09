@@ -15,3 +15,17 @@ Repository for seminar slides in ipython notebook format.
 | 23.02 | dr Wojciech Datka, dr Rafał Jaeschke (Psychiatria) | TBD                                                        |
 | 2.03  |                                                    |                                                            |
 | 9.03  |                                                    |                                                            |
+
+### Informal Seminar (Fridays 1 pm.)
+| Date  | Speaker                                            | Title                                                      |
+|-------|----------------------------------------------------|----------------------------------------------------------- | 
+| 3.03  | mgr Magda Wiercioch                                | TBD                                                        |
+| 10.03 |                                                    |                                                            |
+| 17.03 |                                                    |                                                            |
+| 24.03 |                                                    |                                                            |
+| 31.03 |                                                    |                                                            |
+| 7.04  |                                                    |                                                            |
+| 14.04 |                                                    |                                                            |
+| 21.04 |                                                    |                                                            |
+| 28.03 |                                                    |                                                            |
+
