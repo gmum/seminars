@@ -1,5 +1,5 @@
 # Seminars
-Repository for seminar slides in ipython notebook format.
+Repository for seminar schedule and slides in ipython notebook format.
 
 # Schedule
 ### GMUM Seminar (Thursdays 2 pm.)
