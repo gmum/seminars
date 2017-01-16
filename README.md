@@ -7,9 +7,9 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 5.01  | -                                                  | Seminarium Odwołane                                        |
 | 12.01 | prof. Jose Quesada                                 | TBD                                                        |
-| 19.01 | prof. Piotr Białas (FAIS)                          | Rekonstrukcja obrazu w tomografie J-PET                   |
+| 19.01 | prof. Piotr Białas (FAIS)                          | Rekonstrukcja obrazu w tomografie J-PET                    |
 | 26.01 | mgr Krzysztof Hajto; mgr Grzegorz Gawron           | RL; Technologie Przetwarzania Ryzyka Rynkowego             |
-| 2.02  | mgr Stanisław Jastrzębski                          | On Information Theory in Deep Learning                     |
+| 2.02  | Wolne!                                             |                                                            |
 | 9.09  | lic. Agnieszka Paszek                              | Constrained GMM                                            |
 | 16.02 | wszyscy                                            | TFML2017                                                   |
 | 23.02 | dr Wojciech Datka, dr Rafał Jaeschke (Psychiatria) | TBD                                                        |
