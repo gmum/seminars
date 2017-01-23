@@ -14,7 +14,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 16.02 | wszyscy                                            | TFML2017                                                   |
 | 23.02 | dr Wojciech Datka, dr Rafał Jaeschke (Psychiatria) | TBD                                                        |
 | 2.03  |                                                    |                                                            |
-| 9.03  |                                                    |                                                            |
+| 9.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering                                        |
 
 ### Tea Seminar (Fridays 1 pm.)
 | Date  | Speaker                                            | Title                                                      |
