@@ -9,13 +9,13 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 12.01 | prof. Jose Quesada                                 | TBD                                                        |
 | 19.01 | prof. Piotr Białas (FAIS)                          | Rekonstrukcja obrazu w tomografie J-PET                    |
 | 26.01 | mgr Krzysztof Hajto; mgr Grzegorz Gawron           | RL; Technologie Przetwarzania Ryzyka Rynkowego             |
-| 2.02  | Wolne!                                             |                                                            |
-| 9.09  | lic. Agnieszka Paszek                              | Constrained GMM                                            |
+| 2.02  |                                                    |                                                            |
+| 9.09  |                                                    |                                                            |
 | 16.02 | wszyscy                                            | TFML2017                                                   |
 | 23.02 | dr Wojciech Datka, dr Rafał Jaeschke (Psychiatria) | TBD                                                        |
 | 2.03  |                                                    |                                                            |
 | 9.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering                                        |
-| 16.03 |                                                    |                                                            |
+| 16.03 | lic. Agnieszka Paszek                              | Constrained GMM                                            |
 | 23.03 |                                                    |                                                            |
 | 30.03 |                                                    |                                                            |
 
