@@ -15,7 +15,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 23.02 | dr Wojciech Datka, dr Rafał Jaeschke (Psychiatria) | TBD                                                        |
 | 2.03  |                                                    |                                                            |
 | 9.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering                                        |
-| 16.03 | lic. Agnieszka Paszek                              | Constrained GMM                                            |
+| 16.03 |                                                    |                                                            |
 | 23.03 |                                                    |                                                            |
 | 30.03 |                                                    |                                                            |
 
