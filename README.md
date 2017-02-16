@@ -13,8 +13,9 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 9.09  |                                                    |                                                            |
 | 16.02 | wszyscy                                            | TFML2017                                                   |
 | 23.02 | dr Wojciech Datka, dr Rafał Jaeschke (Psychiatria) | TBD                                                        |
-| 2.03  |                                                    |                                                            |
-| 9.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering                                        |
+| 1.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #1 (3PM)                               |
+| 2.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #2 (1PM)                               |
+| 9.03  |                                                    |                                                            |
 | 16.03 |                                                    |                                                            |
 | 23.03 |                                                    |                                                            |
 | 30.03 |                                                    |                                                            |
