@@ -15,7 +15,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 23.02 | dr Wojciech Datka (Psychiatria)                    | Psychiatria, a badania naukowe                             |
 | 1.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #1 (3PM)                               |
 | 2.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #2 (1PM)                               |
-| 9.03  | dr Jarek Duda  + wolna połowa                      | Szybka parametryczna estymacja gęstości                    |
+| 9.03  | dr Jarek Duda + mgr Stanisław Jastrzębski          | Jarek: Szybka parametryczna estymacja gęstości; Staszek: Deep Learning (nie) działa, czyli o tym jak uczą się sieci DL.                   |
 | 16.03 | JCET                                               |                                                            |
 | 23.03 |                                                    |                                                            |
 | 30.03 |                                                    |                                                            |
