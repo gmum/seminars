@@ -9,7 +9,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 1.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #1 (3PM)                               |
 | 2.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #2 (1PM)                               |
 | 9.03  | dr Jarek Duda + mgr Stanisław Jastrzębski          | Jarek: Szybka parametryczna estymacja gęstości; Staszek: Deep Learning (nie) działa, czyli o tym jak uczą się sieci DL.                   |
-| 16.03 |                                                    |                                                            |
+| 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
 | 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
 | 30.03 |                                                    |                                                            |
 | 6.04  |                                                    |                                                            |
