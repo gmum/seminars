@@ -11,7 +11,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 9.03  | dr Jarek Duda + mgr Stanisław Jastrzębski          | Jarek: Szybka parametryczna estymacja gęstości; Staszek: Deep Learning (nie) działa, czyli o tym jak uczą się sieci DL.                   |
 | 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
 | 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
-| 30.03 |                                                    |                                                            |
+| 30.03 | mgr Damian Leśniak                                 | GPCR Benchmarks                                            |
 | 6.04  |                                                    |                                                            |
 | 13.04 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 | 20.04 |                                                    |                                                            |
