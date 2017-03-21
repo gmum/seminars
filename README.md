@@ -17,7 +17,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                    |
 | 27.04 |                                                    |                                                            |
 |  4.05 |                                                    |                                                            |
-| 11.05 |                                                    |                                                            |
+| 11.05 | dr Przemysław Spurek                               | TBD                                                        |
 
 ### Tea Seminar (Fridays 1 pm.)
 | Date  | Speaker                                            | Title                                                      |
