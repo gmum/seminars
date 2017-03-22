@@ -12,7 +12,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
 | 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
 | 30.03 | mgr Damian Leśniak                                 | GPCR Benchmarks                                            |
-| 6.04  |                                                    |                                                            |
+| 6.04  | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
 | 13.04 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                    |
 | 27.04 |                                                    |                                                            |
