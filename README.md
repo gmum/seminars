@@ -11,11 +11,11 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 9.03  | dr Jarek Duda + mgr Stanisław Jastrzębski          | Jarek: Szybka parametryczna estymacja gęstości; Staszek: Deep Learning (nie) działa, czyli o tym jak uczą się sieci DL.    |
 | 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
 | 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
-| 30.03 | mgr Damian Leśniak                                 | GPCR Benchmarks                                            |
-| 6.04  | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
-| 13.04 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
-| 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                    |
-| 27.04 |                                                    |                                                            |
+| 30.03 | Gzegorz Harańczyk (Criteo)                         | Machine learning for display advertising                   |
+| 6.04  | mgr Damian Leśniak                                 | GPCR Benchmarking                                           |
+| 13.04 | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
+| 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                                    |
+| 27.04 | mgr Agnieszka Pocha                                |  Nowy algorytm klastrowania                                |
 |  4.05 |                                                    |                                                            |
 | 11.05 | dr Przemysław Spurek                               | TBD                                                        |
 
