@@ -5,10 +5,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
-| 23.02 | dr Wojciech Datka (Psychiatria)                    | Psychiatria, a badania naukowe                             |
-| 1.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #1 (3PM)                               |
-| 2.03  | prof. Sławomir T. Wierzchoń                        | Spectral Clustering #2 (1PM)                               |
-| 9.03  | dr Jarek Duda + mgr Stanisław Jastrzębski          | Jarek: Szybka parametryczna estymacja gęstości; Staszek: Deep Learning (nie) działa, czyli o tym jak uczą się sieci DL.    |
 | 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
 | 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
 | 30.03 | Gzegorz Harańczyk (Criteo)                         | Machine learning for display advertising                   |
@@ -18,6 +14,12 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 27.04 | mgr Agnieszka Pocha                                |  Nowy algorytm klastrowania                                |
 |  4.05 |                                                    |                                                            |
 | 11.05 | dr Przemysław Spurek                               | TBD                                                        |
+| 18.05 |                                                    |                                                            |
+| 25.05 |                                                    |                                                            |
+|  1.06 |                                                    |                                                            |
+|  8.06 |                                                    |                                                            |
+| 15.06 |                                                    |                                                            |
+| 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
 
 ### Tea Seminar (Fridays 1 pm.)
 | Date  | Speaker                                            | Title                                                      |
