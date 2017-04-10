@@ -11,8 +11,8 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 6.04  | mgr Damian Leśniak                                 | GPCR Benchmarking                                           |
 | 13.04 | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                                    |
-| 27.04 | mgr Agnieszka Pocha                                |  Nowy algorytm klastrowania                                |
-|  4.05 |                                                    |                                                            |
+| 27.04 |                                                    |                                                            |
+|  4.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 | 11.05 | dr Przemysław Spurek                               | TBD                                                        |
 | 18.05 |                                                    |                                                            |
 | 25.05 |                                                    |                                                            |
