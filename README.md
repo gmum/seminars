@@ -8,7 +8,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
 | 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
 | 30.03 | Gzegorz Harańczyk (Criteo)                         | Machine learning for display advertising                   |
-| 6.04  | mgr Damian Leśniak                                 | GPCR Benchmarking                                           |
+| 6.04  | mgr Damian Leśniak                                 | GPCR Benchmarking                                          |
 | 13.04 | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                                    |
 | 27.04 |                                                    |                                                            |
@@ -31,6 +31,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 31.03 |                                                    |                                                            |
 | 7.04  |                                                    |                                                            |
 | 14.04 |                                                    |                                                            |
-| 21.04 |                                                    |                                                            |
+| 21.04 | Bartek Mulewicz (Reliability Solutions)            | Jednowymiarowane konwolucje w przewidywaniu awarii         |
 | 28.03 |                                                    |                                                            |
 
