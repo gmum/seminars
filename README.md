@@ -14,7 +14,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 27.04 |                                                    |                                                            |
 |  4.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 | 11.05 | dr Przemysław Spurek                               | TBD                                                        |
-| 18.05 | dr Michael Abbott                                  | TBD                                                           |
+| 18.05 | dr Michael Abbott (WFAIS)                          | TBD                                                        |
 | 25.05 |                                                    |                                                            |
 |  1.06 |                                                    |                                                            |
 |  8.06 |                                                    |                                                            |
