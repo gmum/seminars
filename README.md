@@ -27,11 +27,11 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 14.04 |                                                    |                                                            |
 | 21.04 | Bartek Mulewicz (Reliability Solutions)            | Jednowymiarowane konwolucje w przewidywaniu awarii         |
 | 28.04 | mgr Damian Leśniak                                 | PCR Benchmarking cd...                                     |  
-|  4.05 |                                                    |                                                            |
-| 11.05 |                                                    |                                                            |
-| 18.05 |                                                    |                                                            |
-| 25.05 |                                                    |                                                            |
-|  1.06 |                                                    |                                                            |
-|  8.06 |                                                    |                                                            |
-| 15.06 |                                                    |                                                            |
-| 22.06 |                                                    |                                                            |
+|  5.05 |                                                    |                                                            |
+| 12.05 |                                                    |                                                            |
+| 19.05 |                                                    |                                                            |
+| 26.05 |                                                    |                                                            |
+|  2.06 |                                                    |                                                            |
+|  9.06 |                                                    |                                                            |
+| 16.06 |                                                    |                                                            |
+| 23.06 |                                                    |                                                            |
