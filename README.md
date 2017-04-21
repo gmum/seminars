@@ -17,7 +17,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 18.05 | dr Michael Abbott (WFAIS)                          | TBD                                                        |
 | 25.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 |  1.06 | mgr Szymon Knop                                    | TBD                                                        |
-|  8.06 |                                                    |                                                            |
+|  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
 | 15.06 |                                                    |                                                            |
 | 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
 
