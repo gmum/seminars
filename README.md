@@ -11,7 +11,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 6.04  | mgr Damian Leśniak                                 | GPCR Benchmarking                                          |
 | 13.04 | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                                    |
-| 27.04 | prof. Luis Valencia-Cabrera                        |                                                            |
+| 27.04 | prof. Luis Valencia-Cabrera                        | A survey on Membrane Computing: Theory, Applications and Tools                              |
 |  4.05 | prof. Jacek Tabor                                  | Independent Component Analysis #2                          |
 | 11.05 | dr Przemysław Spurek                               | TBD                                                        |
 | 18.05 | dr Michael Abbott (WFAIS)                          | TBD                                                        |
