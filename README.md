@@ -28,7 +28,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 21.04 | Bartek Mulewicz (Reliability Solutions)            | Jednowymiarowane konwolucje w przewidywaniu awarii         |
 | 28.04 | mgr Damian Leśniak                                 | PCR Benchmarking cd...                                     |  
 |  5.05 |                                                    |                                                            |
-| 12.05 |                                                    |                                                            |
+| 12.05 | Ci co byli na ICLR                                 | O paru rzeczach z ICLR                                     |
 | 19.05 |                                                    |                                                            |
 | 26.05 |                                                    |                                                            |
 |  2.06 |                                                    |                                                            |
