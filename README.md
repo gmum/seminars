@@ -30,7 +30,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Learning. Ale bedzie tez o kmeans.       |
 | 12.05 | -                                                  | Juwenalia                                                  |
 | 19.05 | Aga, Damian, Igor, Staszek                         | Ich ulubione prace z ICLR17                                |
-| 26.05 | mgr Igor Sieradzki                                 | Reinforcement Learning in a nutshell: an overview          |
+| 26.05 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
 |  2.06 |                                                    |                                                            |
 |  9.06 |                                                    |                                                            |
 | 16.06 |                                                    |                                                            |
