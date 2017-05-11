@@ -13,12 +13,12 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                                    |
 | 27.04 | prof. Luis Valencia-Cabrera                        | A survey on Membrane Computing: Theory, Applications and Tools                              |
 |  4.05 | prof. Jacek Tabor                                  | Independent Component Analysis #2                          |
-| 11.05 | dr Przemysław Spurek                               | TBD                                                        |
-| 18.05 | dr Michael Abbott (WFAIS)                          | TBD                                                        |
+| 11.05 | lic. Mateusz Kubica                                | Automatyczne rozpoznawanie utworów muzycznych z wykorzystaniem audio fingerprintingu  |
+| 18.05 | dr Michael Abbott (WFAIS)                          | A recipe for simple effective models                       |
 | 25.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 |  1.06 | mgr Szymon Knop                                    | TBD                                                        |
 |  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
-| 15.06 |                                                    |                                                            |
+| 15.06 | mgr Stanisław Jastrzębski                          | TBD                                                        |
 | 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
 
 ### Tea Seminar (Fridays 1 pm.)
