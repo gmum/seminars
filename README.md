@@ -18,7 +18,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 25.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 |  1.06 | mgr Szymon Knop                                    | TBD                                                        |
 |  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
-| 15.06 | mgr Stanisław Jastrzębski                          | TBD                                                        |
+| 15.06 | mgr Stanisław Jastrzębski                          | Residual networks encourage iterative inference            |
 | 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
 
 ### Tea Seminar (Fridays 1 pm.)
