@@ -18,7 +18,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 25.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
 |  1.06 | mgr Szymon Knop                                    | TBD                                                        |
 |  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
-| 15.06 | mgr Stanisław Jastrzębski                          | Residual networks encourage iterative inference            |
+| 15.06 | Corpus Christi                                     |                                                            |
 | 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
 
 ### Tea Seminar (Fridays 1 pm.)
@@ -30,8 +30,8 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Learning. Ale bedzie tez o kmeans.       |
 | 12.05 | -                                                  | Juwenalia                                                  |
 | 19.05 | Aga, Damian, Igor, Staszek                         | Ich ulubione prace z ICLR17                                |
-| 26.05 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
-|  2.06 |                                                    |                                                            |
+| 26.05 | mgr Stanisław Jastrzębski                          | Residual networks encourage iterative inference            |
+|  2.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
 |  9.06 |                                                    |                                                            |
 | 16.06 |                                                    |                                                            |
 | 23.06 |                                                    |                                                            |
