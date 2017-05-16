@@ -32,6 +32,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 19.05 | Aga, Damian, Igor, Staszek                         | Ich ulubione prace z ICLR17                                |
 | 26.05 | mgr Stanisław Jastrzębski                          | Residual networks encourage iterative inference            |
 |  2.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
-|  9.06 |                                                    |                                                            |
+|  9.06 | mgr Stanisław Jastrzębki                           | End to end learning of word embeddings                     |
 | 16.06 |                                                    |                                                            |
 | 23.06 |                                                    |                                                            |
