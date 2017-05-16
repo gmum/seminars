@@ -29,7 +29,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 28.04 | mgr Damian Leśniak                                 | GPCR Benchmarking                                      |  
 |  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Representation Learning        |
 | 12.05 | -                                                  | Juwenalia                                                  |
-| 19.05 | Aga, Damian, Igor, Staszek                         | Ich ulubione prace z ICLR17                                |
+| 19.05 | Aga, Damian, Igor, Staszek                         | Deep Nets Don't Learn via Memorization, i inne ulubione prace z ICLR17                                |
 | 26.05 | mgr Stanisław Jastrzębski                          | Residual networks encourage iterative inference            |
 |  2.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
 |  9.06 | mgr Stanisław Jastrzębki                           | End to end learning of word embeddings                     |
