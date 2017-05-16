@@ -26,8 +26,8 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 14.04 |                                                    |                                                            |
 | 21.04 | Bartek Mulewicz (Reliability Solutions)            | Jednowymiarowane konwolucje w przewidywaniu awarii         |
-| 28.04 | mgr Damian Leśniak                                 | PCR Benchmarking cd...                                     |  
-|  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Learning. Ale bedzie tez o kmeans.       |
+| 28.04 | mgr Damian Leśniak                                 | GPCR Benchmarking .                                     |  
+|  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Representation Learning.        |
 | 12.05 | -                                                  | Juwenalia                                                  |
 | 19.05 | Aga, Damian, Igor, Staszek                         | Ich ulubione prace z ICLR17                                |
 | 26.05 | mgr Stanisław Jastrzębski                          | Residual networks encourage iterative inference            |
