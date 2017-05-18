@@ -15,7 +15,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  4.05 | prof. Jacek Tabor                                  | Independent Component Analysis #2                          |
 | 11.05 | lic. Mateusz Kubica                                | Automatyczne rozpoznawanie utworów muzycznych z wykorzystaniem audio fingerprintingu  |
 | 18.05 | dr Michael Abbott (WFAIS)                          | A recipe for simple effective models                       |
-| 25.05 | mgr Agnieszka Pocha                                | Nowy algorytm klastrowania                                 |
+| 25.05 | mgr Agnieszka Pocha                                | Feature Selection for Failure Detection                    |
 |  1.06 | mgr Szymon Knop                                    | TBD                                                        |
 |  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
 | 15.06 | Corpus Christi                                     |                                                            |
