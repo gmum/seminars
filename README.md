@@ -33,5 +33,5 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 26.05 | Aga, Igor, Staszek                          |   Ulubione prace z ICLR17; Prezentacja na Etiude          |
 |  2.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
 |  9.06 | mgr Stanisław Jastrzębki                           | End to end learning of word embeddings / Residual networks encourage iterative inference                     |
-| 16.06 | mgr Stanisław Jastrzębski                                                   |                                                            |
-| 23.06 |                                                    |  Closet look at memorization in Deep Neural Networks                                                           |
+| 16.06 | mgr Stanisław Jastrzębski                                                   |      Closer look at memorization in Deep Neural Networks                                                      |
+| 23.06 |                                                    |                                                             |
