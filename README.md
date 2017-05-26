@@ -16,7 +16,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 11.05 | lic. Mateusz Kubica                                | Automatyczne rozpoznawanie utworów muzycznych z wykorzystaniem audio fingerprintingu  |
 | 18.05 | dr Michael Abbott (WFAIS)                          | A recipe for simple effective models                       |
 | 25.05 | mgr Agnieszka Pocha                                | Feature Selection for Failure Detection                    |
-|  1.06 | mgr Szymon Knop                                    | TBD                                                        |
+|  1.06 | mgr Szymon Knop                                    | Wyszukiwanie anomalii w procesach biznesowych              |
 |  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
 | 15.06 | Corpus Christi                                     |                                                            |
 | 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
@@ -29,7 +29,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 28.04 | mgr Damian Leśniak                                 | GPCR Benchmarking                                      |  
 |  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Representation Learning        |
 | 12.05 | -                                                  | Juwenalia                                                  |
-| 19.05 | Aga, Damian, Igor, Staszek                         | Ulubione prace z ICLR17 Damiana Leśniaka                                |
+| 19.05 | Aga, Damian, Igor, Staszek                         | Ulubione prace z ICLR17 Damiana Leśniaka                   |
 | 26.05 | Aga, Igor, Staszek                          |   Ulubione prace z ICLR17; Prezentacja na Etiude          |
 |  2.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
 |  9.06 | mgr Stanisław Jastrzębki                           | End to end learning of word embeddings / Residual networks encourage iterative inference                     |
