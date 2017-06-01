@@ -26,12 +26,12 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 14.04 |                                                    |                                                            |
 | 21.04 | Bartek Mulewicz (Reliability Solutions)            | Jednowymiarowane konwolucje w przewidywaniu awarii         |
-| 28.04 | mgr Damian Leśniak                                 | GPCR Benchmarking                                      |  
-|  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Representation Learning        |
+| 28.04 | mgr Damian Leśniak                                 | GPCR Benchmarking                                          |  
+|  5.05 | mgr Stanisław Jastrzębski                          | Unsupervised Deep Representation Learning                  |
 | 12.05 | -                                                  | Juwenalia                                                  |
 | 19.05 | Aga, Damian, Igor, Staszek                         | Ulubione prace z ICLR17 Damiana Leśniaka                   |
-| 26.05 | Aga, Igor, Staszek                          |   Ulubione prace z ICLR17; Prezentacja na Etiude          |
-|  2.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
+| 26.05 | Aga, Igor, Staszek                                 |   Ulubione prace z ICLR17; Prezentacja na Etiude           |
+|  2.06 |                                                    |                                                            |
 |  9.06 | mgr Stanisław Jastrzębki                           | End to end learning of word embeddings / Residual networks encourage iterative inference                     |
-| 16.06 | mgr Stanisław Jastrzębski                                                   |      Closer look at memorization in Deep Neural Networks                                                      |
-| 23.06 |                                                    |                                                             |
+| 16.06 | mgr Stanisław Jastrzębski                          | Closer look at memorization in Deep Neural Networks        |
+| 23.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
