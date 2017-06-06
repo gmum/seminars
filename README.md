@@ -32,6 +32,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 19.05 | Aga, Damian, Igor, Staszek                         | Ulubione prace z ICLR17 Damiana Leśniaka                   |
 | 26.05 | Aga, Igor, Staszek                                 |   Ulubione prace z ICLR17; Prezentacja na Etiude           |
 |  2.06 |                                                    |                                                            |
-|  9.06 | mgr Stanisław Jastrzębki                           |  Residual networks encourage iterative inference / Learning DNNs without SGD                    |
-| 16.06 | mgr Stanisław Jastrzębski                          |  End to end learning of word embeddings       |
+|  9.06 | dr Przemysław Spurek                               | TBD                                                        |
+| 16.06 | mgr Stanisław Jastrzębski                          | End to end learning of word embeddings                     |
 | 23.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
