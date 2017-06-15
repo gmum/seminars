@@ -33,5 +33,5 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 26.05 | Aga, Igor, Staszek                                 |   Ulubione prace z ICLR17; Prezentacja na Etiude           |
 |  2.06 |                                                    |                                                            |
 |  9.06 | dr Przemysław Spurek                               | TAnaliza szeregów czasowych: model ARIMA                   |
-| 16.06 | mgr Stanisław Jastrzębski                          | End to end learning of word embeddings                     |
+| 16.06 | mgr Stanisław Jastrzębski                          | Training without SGD - information bottleneck, memorization, iterative inference, greedy layerwise pretraining                    |
 | 23.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
