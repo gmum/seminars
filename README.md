@@ -5,11 +5,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
-| 16.03 | prof. Jacek Tabor                                  | Independent Component Analysis                             |
-| 23.03 | dr Katarzyna Marzec (JCET)                         | Spektroskopia oscylacyjna (IR/RS) i komplementarne techniki w obrazowaniu biomarkerów zmian chorobowych |
-| 30.03 | Gzegorz Harańczyk (Criteo)                         | Machine learning for display advertising                   |
-| 6.04  | mgr Damian Leśniak                                 | GPCR Benchmarking                                          |
-| 13.04 | mgr Andrzej Bedychaj                               | DBSCAN, HDBSCAN i algorytmy pokrewne                       |
 | 20.04 | dr hab. Michał Wojtylak                            | Znajdowanie najbliższej macierzy o określonych własnościach (matrix nearest problems)                                                    |
 | 27.04 | prof. Luis Valencia-Cabrera                        | A survey on Membrane Computing: Theory, Applications and Tools                              |
 |  4.05 | prof. Jacek Tabor                                  | Independent Component Analysis #2                          |
@@ -17,9 +12,14 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 18.05 | dr Michael Abbott (WFAIS)                          | A recipe for simple effective models                       |
 | 25.05 | mgr Agnieszka Pocha                                | Feature Selection for Failure Detection                    |
 |  1.06 | mgr Szymon Knop                                    | Wyszukiwanie anomalii w procesach biznesowych              |
-|  8.06 | mgr Krzysztof Hajto                                | TBD                                                        |
+|  8.06 | mgr Krzysztof Hajto                                | Co rob\_ć \_dy w danyc\_ są dziury? Techniki radzenia sobie z missing data          |
 | 15.06 | Corpus Christi                                     |                                                            |
-| 22.06 | dr inż. Marcin Kurdziel (AGH)                      | TBD                                                        |
+| 22.06 | dr inż. Marcin Kurdziel (AGH)                      | Binarne Reprezentacje Tekstu                               |
+| 29.06 |                                                    |                                                            |
+|  6.07 |                                                    |                                                            |
+| 13.07 | Zarezerwowane (firma)                              |                                                            |
+| 20.07 |                                                    |                                                            |
+| 27.07 |                                                    |                                                            |
 
 ### Tea Seminar (Fridays 1 pm.)
 | Date  | Speaker                                            | Title                                                      |
@@ -34,4 +34,4 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  2.06 |                                                    |                                                            |
 |  9.06 | dr Przemysław Spurek                               | TAnaliza szeregów czasowych: model ARIMA                   |
 | 16.06 | mgr Stanisław Jastrzębski                          | Training without SGD - information bottleneck, memorization, iterative inference, greedy layerwise pretraining                    |
-| 23.06 | mgr Igor Sieradzki                                 | Deep Reinforcement Learning: an overview                   |
+| 23.06 | mgr Igor Sieradzki                                 | MOŻE, BO TRZEBA RAPORT DLA RELIASOL NAJPIERW NAPISAĆ - Deep Reinforcement Learning: an overview                   |
