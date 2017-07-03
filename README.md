@@ -19,7 +19,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  6.07 |                                                    |                                                            |
 | 13.07 | Zarezerwowane (firma)                              |                                                            |
 | 20.07 |                                                    |                                                            |
-| 27.07 |                                                    |                                                            |
+| 27.07 | prof. Danny Dubé                                   | Kompresja - TBD                                              |
 
 ### Tea Seminar (Fridays 1 pm.)
 | Date  | Speaker                                            | Title                                                      |
