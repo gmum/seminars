@@ -6,7 +6,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
 | 13.07 |                                                    |                                                            |
-| 20.07 | dr Sem Gmum                                        | NLP                                                        |
+| 20.07 | Agnieszka, Łukasz, Marek, Przemek                  | NLP - Embeddingi i klastrowanie Browna                     |
 | 27.07 | prof. Danny Dubé                                   | Kompresja - TBD                                            |
 |  3.08 |                                                    |                                                            |
 | 10.08 |                                                    |                                                            |
@@ -17,7 +17,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 14.07 |                                                    |                                                            |
-| 21.07 | Agnieszka                                          | NLP                                                        |
+| 21.07 | mgr Agnieszka Pocha                                | NLP na Deep Learning Summer School w Montrealu             |
 | 28.07 |                                                    |                                                            |
 |  4.08 |                                                    |                                                            |
 | 11.08 |                                                    |                                                            |
