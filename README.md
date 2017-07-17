@@ -6,7 +6,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
 | 13.07 |                                                    |                                                            |
-| 20.07 | Agnieszka, Łukasz, Marek, Przemek                  | NLP - Embeddingi i klastrowanie Browna                     |
+| 20.07 | Agnieszka, Krzysiek, Łukasz, Przemek                  | NLP - Embeddingi i klastrowanie Browna                     |
 | 27.07 | prof. Danny Dubé                                   | Kompresja - TBD                                            |
 |  3.08 |                                                    |                                                            |
 | 10.08 |                                                    |                                                            |
