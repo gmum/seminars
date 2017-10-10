@@ -5,7 +5,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
-| 12.10 |                                                    |                                                            |
+| 12.10 | mgr Andrzej Bedychaj                               | New approach to closed form ICA                            |
 | 19.10 |                                                    |                                                            |
 | 26.10 |                                                    |                                                            |
 |  2.11 |                                                    |                                                            |
