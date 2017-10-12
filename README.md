@@ -13,7 +13,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 16.11 |                                                    |                                                            |
 | 23.11 |                                                    |                                                            |
 
-### Tea Seminar (Fridays 1 pm.)
+### Tea Seminar (Fridays 10 am.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 13.10 | Marek, Przemek, Łukasz                             | Klastrowanie z ICML17                                      |
