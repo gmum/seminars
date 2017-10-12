@@ -18,7 +18,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 13.10 | Marek, Przemek, Łukasz                             | Klastrowanie z ICML17                                      |
 | 20.10 |                                                    |                                                            |
-| 27.10 | mgr Magda Wiercioch                                | Moment invariants for multi-component shapes with applications to leaf lassification                                        |
+| 27.10 | mgr Magda Wiercioch                                | Moment invariants for multi-component shapes with applications to leaf classification                                        |
 |  3.11 |                                                    |                                                            |
 | 10.11 | DL@UJ                                              | Papery z DL Bengia part 1                                  |
 | 17.11 |                                                    |                                                            |
