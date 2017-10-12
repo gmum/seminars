@@ -8,7 +8,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 12.10 | mgr Andrzej Bedychaj                               | New approach to closed form ICA                            |
 | 19.10 |                                                    |                                                            |
 | 26.10 |                                                    |                                                            |
-|  2.11 |                                                    |                                                            |
+|  2.11 | [Wolne](http://www.bip.uj.edu.pl/documents/1384597/135326875/kom_30_2017.pdf/507926eb-4eb1-4201-b3a0-00b5cd468e50)                                                   | -                                                         |
 |  9.11 |                                                    |                                                            |
 | 16.11 |                                                    |                                                            |
 | 23.11 |                                                    |                                                            |
