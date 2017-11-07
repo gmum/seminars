@@ -9,7 +9,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 16.11 |                                                    |                                                            |
 | 23.11 | Bartek Śnieżyński                                  | TBD                                                        |
 | 30.11 |                                                    |                                                            |
-|  7.12 |                                                    |                                                            |
+|  7.12 | mgr Stanisław Jastrzębski                          | Is SGD the secret sauce?                                   |
 | 14.12 |                                                    |                                                            |
 | 21.12 |                                                    |                                                            |
 | 28.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
