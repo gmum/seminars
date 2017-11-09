@@ -8,7 +8,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  9.11 | mgr Oleksandr Myronov                              | Nauczanie Bayesowskie                                      |
 | 16.11 |                                                    |                                                            |
 | 23.11 | Bartek Śnieżyński                                  | TBD                                                        |
-| 30.11 |                                                    |                                                            |
+| 30.11 | mgr Oleksandr Myronov                              | Using omics data in deep learning                          |
 |  7.12 | mgr Stanisław Jastrzębski                          | Is SGD the secret sauce?                                   |
 | 14.12 |                                                    |                                                            |
 | 21.12 |                                                    |                                                            |
