@@ -9,7 +9,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 16.11 | Igor S. & Damian                                   | Ich plany na preludium                                     |
 | 23.11 | Bartek Śnieżyński                                  | TBD                                                        |
 | 30.11 | mgr Oleksandr Myronov                              | Using omics data in deep learning                          |
-|  7.12 | mgr Stanisław Jastrzębski                          | Is SGD the secret sauce?                                   |
+|  7.12 | mgr Stanisław Jastrzębski                          | How do DNNs learn, on SGD                                   |
 | 14.12 | lic. Tomasz Danel                                  | TBD                                                        |
 | 21.12 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
 | 28.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
