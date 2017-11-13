@@ -6,7 +6,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  9.11 | mgr Oleksandr Myronov                              | Nauczanie Bayesowskie                                      |
-| 16.11 |                                                    |                                                            |
+| 16.11 | Igor S. & Damian                                   | Ich plany na preludium                                     |
 | 23.11 | Bartek Śnieżyński                                  | TBD                                                        |
 | 30.11 | mgr Oleksandr Myronov                              | Using omics data in deep learning                          |
 |  7.12 | mgr Stanisław Jastrzębski                          | Is SGD the secret sauce?                                   |
@@ -20,7 +20,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 10.11 | DL@UJ                                              | Papery z DL Bengia part 1                                  |
 | 17.11 | mgr Andrzej Bedychaj                               | TBD                                                        |
-| 24.11 |                                                    |                                                            |
+| 24.11 | DL@UJ                                              | Papery z DL Bengia part 1.4                                |
 |  1.12 |                                                    |                                                            |
 |  8.12 |                                                    |                                                            |
 | 15.12 |                                                    |                                                            |
