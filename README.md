@@ -19,8 +19,8 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 10.11 | DL@UJ                                              | Papery z DL Bengia part 1                                  |
-| 17.11 | mgr Andrzej Bedychaj                               | TBD                                                        |
-| 24.11 | DL@UJ                                              | Papery z DL Bengia part 1.4                                |
+| 17.11 | DL@UJ                                              | Papery z DL Bengia part 1.4                                |
+| 24.11 | mgr Andrzej Bedychaj                               | IVA - Independent Vector Analysis                          |
 |  1.12 |                                                    |                                                            |
 |  8.12 |                                                    |                                                            |
 | 15.12 |                                                    |                                                            |
