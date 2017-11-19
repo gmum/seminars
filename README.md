@@ -22,7 +22,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 17.11 | DL@UJ                                              | Papery z DL Bengia part 1.4                                |
 | 24.11 | mgr Andrzej Bedychaj                               | IVA - Independent Vector Analysis                          |
 |  1.12 |                                                    |                                                            |
-|  8.12 |                                                    |                                                            |
+|  8.12 | mgr Stanisław Jastrzębski                          | Speculation: Deep Learning makes no sense.                 |
 | 15.12 |                                                    |                                                            |
 | 22.12 | TBD if cancelled                                   |                                                            |
 | 29.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
