@@ -7,9 +7,9 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  9.11 | mgr Oleksandr Myronov                              | Nauczanie Bayesowskie                                      |
 | 16.11 | Igor S. & Damian                                   | Ich plany na preludium                                     |
-| 23.11 | Bartek Śnieżyński                                  | TBD                                                        |
+| 23.11 | Bartek Śnieżyński                                  | Algorytmy uczenia maszynowego do adaptacji miejsca wykonywania zadań w środowisku mobilnej chmury obliczeniowej                     |
 | 30.11 | mgr Oleksandr Myronov                              | Using omics data in deep learning                          |
-|  7.12 | mgr Stanisław Jastrzębski                          | How do DNNs learn, on SGD                                   |
+|  7.12 | mgr Stanisław Jastrzębski                          | How do DNNs learn, on SGD                                  |
 | 14.12 | lic. Tomasz Danel                                  | TBD                                                        |
 | 21.12 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
 | 28.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
