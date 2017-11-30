@@ -23,6 +23,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 24.11 | mgr Andrzej Bedychaj                               | IVA - Independent Vector Analysis                          |
 |  1.12 | Damian i Igor S.                                   | VAE                                                        |
 |  8.12 | mgr Stanisław Jastrzębski                          | Speculation: Deep Learning makes no sense.                 |
-| 15.12 |                                                    |                                                            |
+| 15.12 | mgr Łukasz Maziarka                                | Distance Covariance Coefficient                            |
 | 22.12 | TBD if cancelled                                   |                                                            |
 | 29.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
