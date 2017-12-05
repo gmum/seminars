@@ -24,5 +24,5 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  1.12 | Damian i Igor S.                                   | VAE                                                        |
 |  8.12 | mgr Stanisław Jastrzębski                          | Speculation: Deep Learning makes no sense.                 |
 | 15.12 | mgr Łukasz Maziarka                                | Distance Covariance Coefficient                            |
-| 22.12 | TBD if cancelled                                   |                                                            |
+| 22.12 | prof. Jacek Tabor                                  | O Cięciach Gilotynowych                                    |
 | 29.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
