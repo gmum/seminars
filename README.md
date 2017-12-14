@@ -7,10 +7,10 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  7.12 | mgr Stanisław Jastrzębski                          | How do DNNs learn, on SGD                                  |
 | 14.12 | lic. Tomasz Danel                                  | Sieci Neuronowe Zoptymalizowane Pod Urządzenia Mobilne     |
-| 21.12 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
+| 21.12 | Wigilia wydziałowa                                 |                                                            |
 | 28.12 | Christmas/Hanukkah/Kwanzaa Break                   | -                                                          |
 |  4.01 | mgr Barbara Ciesielska (???)                       | Teoria Baz Grobnera                                        |
-| 11.01 |                                                    |                                                            |
+| 11.01 |  mgr Oleksandr Zakharchuk                          | TBD                                                           |
 | 18.01 |                                                    |                                                            |
 | 25.01 |                                                    |                                                            |
 
