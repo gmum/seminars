@@ -10,7 +10,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 21.12 | prof. Jacek Tabor (Po wiligii wydziałowej!)        | O Cięciach Gilotynowych                                    |
 | 28.12 | Christmas/Hanukkah/Kwanzaa Break                   | -                                                          |
 |  4.01 | mgr Barbara Ciesielska                             | Teoria Baz Grobnera                                        |
-| 11.01 |                                                    |                                                            |
+| 11.01 | mgr Magdalena Wiercioch                            | TBD                                                           |
 | 18.01 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
 | 25.01 |                                                    |                                                            |
 
@@ -20,7 +20,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  8.12 | mgr Stanisław Jastrzębski                          | Speculation: Deep Learning makes no sense.                 |
 | 15.12 | mgr Łukasz Maziarka                                | Distance Covariance Coefficient                            |
-| 22.12 |                                   |                                     |
+| 22.12 | Odwołane                                           |                                     |
 | 29.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
 |  5.01 |                                                    |                                                            |
 | 12.01 |                                                    |                                                            |
