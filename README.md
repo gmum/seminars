@@ -18,7 +18,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 ### Tea Seminar (Fridays 10 am.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
-|  5.01 | mgr Piotr Kowenzowskie                             | Semantic Image Inpainting With Deep Generative Models      |
+|  5.01 | mgr Piotr Kowenzowski                              | Semantic Image Inpainting With Deep Generative Models      |
 | 12.01 |                                                    |                                                            |
 | 19.01 |                                                    |                                                            |
 | 26.01 |                                                    |                                                            |
