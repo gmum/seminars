@@ -22,7 +22,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 15.12 | mgr Łukasz Maziarka                                | Distance Covariance Coefficient                            |
 | 22.12 | Odwołane                                           |                                     |
 | 29.12 | Christmas/Hanukkah/Kwanzaa Break                   |                                                            |
-|  5.01 |                                                    |                                                            |
+|  5.01 | mgr Piotr Kowenzowskie                             | Semantic Image Inpainting With Deep Generative Models      |
 | 12.01 |                                                    |                                                            |
 | 19.01 |                                                    |                                                            |
 | 26.01 |                                                    |                                                            |
