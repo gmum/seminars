@@ -9,7 +9,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 11.01 | mgr Magdalena Wiercioch                            | TBD                                                        |
 | 18.01 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
 | 25.01 | dr Jarek Duda                                      | Some nonstandard approaches to hard computational problems |
-|  1.02 | mgr Leszek Nowak                                   | TBD                                                        |
+|  1.02 | mgr Leszek Nowak (WFAIS)                           | TBD                                                        |
 |  8.02 |                                                    |                                                            |
 | 15.02 |                                                    |                                                            |
 | 22.02 |                                                    |                                                            |
