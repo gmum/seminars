@@ -19,7 +19,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  5.01 | mgr Piotr Kowenzowski                              | Semantic Image Inpainting With Deep Generative Models      |
-| 12.01 |                                                    |                                                            |
+| 12.01 | mgr Krzysztof Hajto                                | Pixel Recurrent Neural Networks                            |
 | 19.01 |                                                    |                                                            |
 | 26.01 |                                                    |                                                            |
 |  2.02 |                                                    |                                                            |
