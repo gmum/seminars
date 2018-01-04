@@ -10,7 +10,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 18.01 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
 | 25.01 | dr Jarek Duda                                      | Some nonstandard approaches to hard computational problems |
 |  1.02 | mgr Leszek Nowak (WFAIS)                           | TBD                                                        |
-|  8.02 |                                                    |                                                            |
+|  8.02 | dr Sabina Smusz                                    | How deeply deep learning entered the field of Chemistry    |
 | 15.02 |                                                    |                                                            |
 | 22.02 |                                                    |                                                            |
 
