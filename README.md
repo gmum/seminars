@@ -20,7 +20,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  5.01 | mgr Piotr Kowenzowski                              | Semantic Image Inpainting With Deep Generative Models      |
 | 12.01 | mgr Krzysztof Hajto                                | Pixel Recurrent Neural Networks                            |
-| 19.01 |                                                    |                                                            |
+| 19.01 | mgr Agnieszka Pocha                                | Identifying and attacking the saddle point problem...      |
 | 26.01 |                                                    |                                                            |
 |  2.02 |                                                    |                                                            |
 |  9.02 |                                                    |                                                            |
