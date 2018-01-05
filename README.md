@@ -5,12 +5,12 @@ Repository for seminar schedule and slides in ipython notebook format.
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
-|  4.01 | mgr Barbara Ciesielska                             | Teoria Baz Grobnera                                        |
-| 11.01 | mgr Magdalena Wiercioch                            | TBD                                                        |
+|  4.01 | mgr Barbara Ciesielska (IM)                        | Teoria Baz Grobnera                                        |
+| 11.01 | mgr Magdalena Wiercioch                            | A new approach for density-based clustering                |
 | 18.01 | mgr Oleksandr Zakharchuk                           | TBD                                                        |
 | 25.01 | dr Jarek Duda                                      | Some nonstandard approaches to hard computational problems |
 |  1.02 | mgr Leszek Nowak (WFAIS)                           | TBD                                                        |
-|  8.02 | dr Sabina Smusz                                    | How deeply deep learning entered the field of Chemistry    |
+|  8.02 | dr Sabina Smusz (IFPAN)                            | How deeply deep learning entered the field of Chemistry    |
 | 15.02 |                                                    |                                                            |
 | 22.02 |                                                    |                                                            |
 
