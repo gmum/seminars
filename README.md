@@ -22,7 +22,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 12.01 | mgr Krzysztof Hajto                                | Pixel Recurrent Neural Networks                            |
 | 19.01 | mgr Agnieszka Pocha                                | Identifying and attacking the saddle point problem...      |
 | 26.01 | dr Śmieja, dr Struski, dr Spurek                   | Subspace clustering; Neural networks with incomplete data  |
-|  2.02 |                                                    |                                                            |
-|  9.02 |                                                    |                                                            |
+|  2.02 | mgr Magda Wiercioch                                | TBD                                                        |
+|  9.02 | mgr Magda Wiercioch (Wstępnie)                     | TBD                                                        |
 | 16.02 |                                                    |                                                            |
 | 23.02 |                                                    |                                                            |
