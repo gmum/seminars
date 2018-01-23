@@ -23,7 +23,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  9.02 | mgr Magda Wiercioch (Wstępnie)                     | TBD                                                        |
 | 16.02 |                                                    |                                                            |
 | 23.02 |                                                    |                                                            |
-|  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą 
-HMM i LSTMów                                                 |
+|  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą HMM i LSTMów                                                       |
 |  9.03 |                                                    |                                                            |
 | 16.03 |                                                    |                                                            |
