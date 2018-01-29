@@ -21,8 +21,8 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 26.01 | dr Śmieja, dr Struski, dr Spurek                   | Subspace clustering; Neural networks with incomplete data  |
 |  2.02 | mgr Magda Wiercioch                                | Density estimation - A case study                          |
 |  9.02 | mgr Jakub Chłędowski                               | On top eigendirections of word embeddings                  |
-| 16.02 | mgr Stanisław Jastrzębski                          | Three factors influencing dynamics in SGD                  |
+| 16.02 |                                                    |                                                            |
 | 23.02 |                                                    |                                                            |
 |  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą HMM i LSTMów                                                       |
-|  9.03 |                                                    |                                                            |
+|  9.03 | mgr Stanisław Jastrzębski                          | Three factors influencing dynamics in SGD                  |
 | 16.03 |                                                    |                                                            |
