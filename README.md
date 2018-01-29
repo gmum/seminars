@@ -19,8 +19,8 @@ Repository for seminar schedule and slides in ipython notebook format.
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 26.01 | dr Śmieja, dr Struski, dr Spurek                   | Subspace clustering; Neural networks with incomplete data  |
-|  2.02 | mgr Magda Wiercioch                                | TBD                                                        |
-|  9.02 | mgr Magda Wiercioch (Wstępnie)                     | TBD                                                        |
+|  2.02 | mgr Magda Wiercioch                                | Density estimation - A case study                          |
+|  9.02 | mgr Jakub Chłędowski                               | On top eigendirections of word embeddings                  |
 | 16.02 |                                                    |                                                            |
 | 23.02 |                                                    |                                                            |
 |  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą HMM i LSTMów                                                       |
