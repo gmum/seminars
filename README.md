@@ -7,7 +7,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 25.01 | dr Jarek Duda                                      | Some nonstandard approaches to hard computational problems |
 |  1.02 | mgr Leszek Nowak (WFAIS)                           | TBD                                                        |
-|  8.02 | dr Sabina Smusz (IFPAN)                            | How deeply deep learning entered the field of Chemistry    |
+|  8.02 | dr Sabina Podlewska (IFPAN)                            | How deeply deep learning entered the field of Chemistry    |
 | 15.02 |                                                    |                                                            |
 | 22.02 |                                                    |                                                            |
 |  1.03 |                                                    |                                                            |
