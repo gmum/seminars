@@ -11,7 +11,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 15.02 | Ferie                                              |                                                            |
 | 22.02 | DL Workshop                                        | -                                                          |
 |  1.03 |                                                    |                                                            |
-|  8.03 |                                                    |                                                            |
+|  8.03 | mgr Stanisław Jastrzębski                          | Three factors influencing dynamics in SGD                  |
 | 15.03 |                                                    |                                                            |
 
 
@@ -23,6 +23,6 @@ Repository for seminar schedule and slides in ipython notebook format.
 |  9.02 | mgr Jakub Chłędowski                               | On top eigendirections of word embeddings                  |
 | 16.02 | Ferie                                              |                                                            |
 | 23.02 | DL Workshop                                        | -                                                          |
-|  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą HMM i LSTMów                                                       |
-|  9.03 | mgr Stanisław Jastrzębski                          | Three factors influencing dynamics in SGD                  |
+|  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą HMM i LSTMów                                                                  |
+|  9.03 |                                                    |                                                            |
 | 16.03 |                                                    |                                                            |
