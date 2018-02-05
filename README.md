@@ -1,5 +1,5 @@
 # Seminars
-Repository for seminar schedule and slides in ipython notebook format.
+Repository for seminar schedule (and slides in ipython notebook format, but no one really adds them).
 
 # Schedule
 ### GMUM Seminar (Thursdays 2 pm.)
@@ -11,7 +11,7 @@ Repository for seminar schedule and slides in ipython notebook format.
 | 15.02 | Ferie                                              |                                                            |
 | 22.02 | DL Workshop                                        | -                                                          |
 |  1.03 |                                                    |                                                            |
-|  8.03 | mgr Stanisław Jastrzębski                          | Three factors influencing dynamics in SGD                  |
+|  8.03 | mgr Stanisław Jastrzębski                          | Do DNN generalize because (S)GD really smooths out loss surface?                  |
 | 15.03 |                                                    |                                                            |
 
 
