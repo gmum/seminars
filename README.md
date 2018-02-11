@@ -10,7 +10,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  8.02 | dr Sabina Podlewska (IFPAN)                        | How deeply deep learning entered the field of Chemistry    |
 | 15.02 | Ferie                                              |                                                            |
 | 22.02 | DL Workshop                                        | -                                                          |
-|  1.03 | mgr Stanisław Jastrzębski                          | Do DNN generalize because (S)GD really smooths out loss surface?                                                              |
+|  1.03 | mgr Stanisław Jastrzębski                          | SGD Noise Improves Conditioning by Smoothing the Sharpest Directions?                                                              |
 |  8.03 | prof. dr hab. Piotr Białas (WFAIS)                 | A multi-instance deep neural network classifier: application to Higgs boson CP measurement                                   |
 | 15.03 |                                                    |                                                            |
 
