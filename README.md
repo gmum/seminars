@@ -8,7 +8,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  1.03 | mgr Stanisław Jastrzębski                          | SGD Noise Improves Conditioning by Smoothing the Sharpest Directions                                                              |
 |  8.03 | prof. dr hab. Piotr Białas (WFAIS)                 | A multi-instance deep neural network classifier: application to Higgs boson CP measurement                                   |
 | 15.03 | Asia Misztal-Radecka (Onet)                        | TBD                                                        |
-| 22.03 |                                                    |                                                            |
+| 22.03 | Marta Stępniewska-Dziubińska (IBBPAN)              | TBD                                                        |
 | 29.03 |                                                    |                                                            |
 |  5.04 |                                                    |                                                            |
 | 12.04 |                                                    |                                                            |
