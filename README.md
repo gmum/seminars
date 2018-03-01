@@ -9,8 +9,8 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  8.03 | prof. dr hab. Piotr Białas (WFAIS)                 | A multi-instance deep neural network classifier: application to Higgs boson CP measurement                                   |
 | 15.03 | Asia Misztal-Radecka (Onet)                        | TBD                                                        |
 | 22.03 | Marta Stępniewska-Dziubińska (IBBPAN)              | TBD                                                        |
-| 29.03 |                                                    |                                                            |
-|  5.04 |                                                    |                                                            |
+| 29.03 | Wielki Czwartek?                                   |                                                            |
+|  5.04 | prof. Jacek Tabor                                  | Missing data for neural networks                           |
 | 12.04 |                                                    |                                                            |
 
 
@@ -21,6 +21,6 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  9.03 | mgr Jakub Chłędowski                               |  On top eigendirections of word embeddings                 |
 | 16.03 |                                                    |                                                            |
 | 23.03 |                                                    |                                                            |
-| 30.03 |                                                    |                                                            |
+| 30.03 | Wielki Piątek?                                     |                                                            |
 |  6.04 |                                                    |                                                            |
 | 13.04 |                                                    |                                                            |
