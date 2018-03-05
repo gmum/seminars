@@ -18,8 +18,8 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 |  2.03 | lic. Tomasz Danel, lic. Julia Łucka                | Generowanie rymowanych wierszy w języku polskim za pomocą HMM i LSTMów                                                                  |
-|  9.03 | mgr Jakub Chłędowski                               |  On top eigendirections of word embeddings                 |
-| 16.03 |                                                    |                                                            |
+|  9.03 | mgr Jakub Chłędowski                               | On top eigendirections of word embeddings                  |
+| 16.03 | Jacek, Igor P., Łukasz S.                          | Latent Space Oddity                                        |
 | 23.03 |                                                    |                                                            |
 | 30.03 | Wielki Piątek?                                     |                                                            |
 |  6.04 |                                                    |                                                            |
