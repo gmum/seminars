@@ -8,7 +8,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  1.03 | mgr Stanisław Jastrzębski                          | SGD Noise Improves Conditioning by Smoothing the Sharpest Directions                                                              |
 |  8.03 | prof. dr hab. Piotr Białas (WFAIS)                 | A multi-instance deep neural network classifier: application to Higgs boson CP measurement                                   |
 | 15.03 | Asia Misztal-Radecka (Onet)                        | Machine Learning in the world of Internet Media            |
-| 22.03 | Marta Stępniewska-Dziubińska (IBBPAN)              | TBD                                                        |
+| 22.03 | Marta Stępniewska-Dziubińska (IBBPAN)              | Development and evaluation of a deep learning model for protein-ligand binding affinity prediction                           |
 | 29.03 | Wielki Czwartek?                                   |                                                            |
 |  5.04 | prof. Jacek Tabor                                  | Missing data for neural networks                           |
 | 12.04 |                                                    |                                                            |
