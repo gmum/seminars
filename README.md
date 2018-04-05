@@ -10,7 +10,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | 19.04 | prof. Jacek Tabor                                  | Geometry of latent space                                   |
 | 26.04 | HSBC                                               |                                                            |
 |  3.05 | Święto                                             | -                                                          |
-| 10.05 |                                                    |                                                            |
+| 10.05 | M. Ksyta, A. Myronov, J. Tabor, P. Spurek          | Miary podobieństwa obrazów - przegląd                      |
 | 17.05 |                                                    |                                                            |
 | 24.05 | dr inż. Tomasz Trzciński (UW)                      | TBD                                                        |
 
