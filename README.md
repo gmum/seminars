@@ -8,8 +8,8 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  5.04 | prof. Jacek Tabor                                  | Missing data for neural networks                           |
 | 12.04 |                                                    |                                                            |
 | 19.04 | prof. Jacek Tabor                                  | Geometry of latent space                                   |
-| 16.04 |                                                    |                                                            |
-|  3.05 |                                                    |                                                            |
+| 26.04 | HSBC                                               |                                                            |
+|  3.05 | Święto                                             | -                                                          |
 | 10.05 |                                                    |                                                            |
 | 17.05 |                                                    |                                                            |
 | 24.05 | dr inż. Tomasz Trzciński (UW)                      | TBD                                                        |
