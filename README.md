@@ -6,7 +6,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |
 |  5.04 | prof. Jacek Tabor                                  | Missing data for neural networks                           |
-| 12.04 |                                                    |                                                            |
+| 12.04 | prof. Matthias Zeppelzauer (St. Polten University) | TBD                                                        |
 | 19.04 | prof. Jacek Tabor                                  | Geometry of latent space                                   |
 | 26.04 | HSBC                                               |                                                            |
 |  3.05 | Święto                                             | -                                                          |
