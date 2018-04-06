@@ -5,7 +5,6 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |
-|  5.04 | prof. Jacek Tabor                                  | Missing data for neural networks                           |
 | 12.04 | prof. Matthias Zeppelzauer (St. Polten University) | TBD                                                        |
 | 19.04 | prof. Jacek Tabor                                  | Geometry of latent space                                   |
 | 26.04 | HSBC                                               |                                                            |
@@ -18,12 +17,11 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 ### Tea Seminar (Fridays 10 am.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
-|  6.04 | lic. Ola Nowak, mgr Łukasz Maziarka                | TBD                                                        |
 | 13.04 |                                                    |                                                            |
 | 20.04 |                                                    |                                                            |
 | 27.04 |                                                    |                                                            |
 |  4.05 |                                                    |                                                            |
 | 11.05 |                                                    |                                                            |
-| 18.05 |                                                    |                                                            |
+| 18.05 | S. Jastrzębski, K. Chłędowski                      | TBD                                                        |
 | 25.05 |                                                    |                                                            |
 
