@@ -5,7 +5,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |
-| 12.04 | prof. Matthias Zeppelzauer (St. Polten University) | TBD                                                        |
+| 12.04 | prof. Matthias Zeppelzauer (St. Polten University) | Visual pattern discovery by deep learning for the extraction of building characteristics                                              |
 | 19.04 | prof. Jacek Tabor                                  | Geometry of latent space                                   |
 | 26.04 | HSBC                                               |                                                            |
 |  3.05 | Święto                                             | -                                                          |
