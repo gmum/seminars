@@ -18,7 +18,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
 | 13.04 |                                                    |                                                            |
-| 20.04 | mgr Konrad Żołna                                   | (14:00) TBD                                                        |
+| 20.04 | mgr Konrad Żołna                                   | (14:00) Fraternal Dropout                                  |
 | 27.04 |                                                    |                                                            |
 |  4.05 |                                                    |                                                            |
 | 11.05 |                                                    |                                                            |
