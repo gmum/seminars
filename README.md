@@ -19,8 +19,8 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
 | 13.04 |                                                    |                                                            |
 | 20.04 | mgr Konrad Żołna                                   | (14:00) Fraternal Dropout / Neural explanation networks    |
-| 27.04 |                                                    |                                                            |
-|  4.05 |                                                    |                                                            |
+| 27.04 | Odwołane (SIGML)                                   |                                                            |
+|  4.05 | Odwołane                                           |                                                            |
 | 11.05 | dr Przemysław Spurek                               | Generative Autoencoders                                    |
 | 18.05 | S. Jastrzębski, K. Chłędowski                      | TBD                                                        |
 | 25.05 |                                                    |                                                            |
