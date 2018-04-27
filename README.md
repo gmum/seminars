@@ -5,23 +5,25 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 ### GMUM Seminar (Thursdays 2 pm.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |
-| 12.04 | prof. Matthias Zeppelzauer (St. Polten University) | Visual pattern discovery by deep learning for the extraction of building characteristics |
-| 19.04 | prof. Jacek Tabor                                  | Geometry of latent space                                   |
-| 26.04 | HSBC                                               | Odwołane ze względu na SIGML                               |
 |  3.05 | Święto                                             | -                                                          |
 | 10.05 | M. Ksyta, A. Myronov, J. Tabor, P. Spurek          | Miary podobieństwa obrazów - przegląd                      |
 | 17.05 | HSBC                                               |                                                            |
 | 24.05 | dr inż. Tomasz Trzciński (UW)                      | TBD                                                        |
+| 31.05 |                                                    |                                                            |
+|  7.06 |                                                    |                                             |
+| 14.06 |                                                    |                                                            |
+| 21.06 |                                                    |                                                            |
 
 
 ### Tea Seminar (Fridays 10 am.)
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
-| 13.04 |                                                    |                                                            |
-| 20.04 | mgr Konrad Żołna                                   | (14:00) Fraternal Dropout / Neural explanation networks    |
-| 27.04 | Odwołane (SIGML)                                   |                                                            |
 |  4.05 | Odwołane                                           |                                                            |
-| 11.05 | dr Przemysław Spurek                               | Generative Autoencoders                                    |
+| 11.05 | dr Przemysław Spurek / prof. Jacek Tabor           | Generative Autoencoders / \phi-funkcje                     |
 | 18.05 | S. Jastrzębski, K. Chłędowski                      | TBD                                                        |
-| 25.05 |                                                    |                                                            |
+| 25.05 | Igor Sieradzki                                     | AlphaZero                                                  |
+|  1.06 |                                                    |                                                            |
+|  8.06 | dr Marek Śmieja / (wolne 45 min)                   | CPLEX Optimizer                                            |
+| 15.06 |                                                    |                                                            |
+| 22.06 |                                                    |                                                            |
 
