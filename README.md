@@ -21,8 +21,8 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  4.05 | Odwołane                                           |                                                            |
 | 11.05 | dr Przemysław Spurek / prof. Jacek Tabor           | Generative Autoencoders / \phi-funkcje                     |
 | 18.05 | S. Jastrzębski, K. Chłędowski                      | TBD                                                        |
-| 25.05 | Igor Sieradzki                                     | AlphaZero                                                  |
-|  1.06 |                                                    |                                                            |
+| 25.05 | OPUS z Chemikami                                   |                                                            |
+|  1.06 | Igor Sieradzki                                     | AlphaZero                                                  |
 |  8.06 | dr Marek Śmieja / (wolne 45 min)                   | CPLEX Optimizer                                            |
 | 15.06 |                                                    |                                                            |
 | 22.06 |                                                    |                                                            |
