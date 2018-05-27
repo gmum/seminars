@@ -7,10 +7,10 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |-------|----------------------------------------------------|----------------------------------------------------------- |
 |  3.05 | Święto                                             | -                                                          |
 | 10.05 | M. Ksyta, A. Myronov, J. Tabor, P. Spurek          | Miary podobieństwa obrazów - przegląd                      |
-| 17.05 | Jaromir Dziula, Bartłomiej Szpak (HSBC)            | Risk Problems and ML applications within a Bank                                                           |
-| 24.05 | dr inż. Tomasz Trzciński (UW)                      | Learning binary local feature descriptors - their evolution and application in SLAM                                                        |
+| 17.05 | Jaromir Dziula, Bartłomiej Szpak (HSBC)            | Risk Problems and ML applications within a Bank            |
+| 24.05 | dr inż. Tomasz Trzciński (UW)                      | Learning binary local feature descriptors - their evolution and application in SLAM                                                      |
 | 31.05 |                                                    |                                                            |
-|  7.06 |                                                    |                                                            |
+|  7.06 | Jacek Leśkow (PK)                                  | Połączenie cyklostacjonarności, funkcjonalnej analizy danych i sygnałów                                                           |
 | 14.06 |                                                    |                                                            |
 | 21.06 |                                                    |                                                            |
 
