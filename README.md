@@ -23,7 +23,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | 18.05 | dr Jarek Duda                                      | Hierarchical correlation reconstruction dla missing data i sztucznych neuronów                                          |
 | 25.05 | OPUS z Chemikami                                   |                                                            |
 |  1.06 | Odwołane                                           |                                                            |
-|  8.06 | dr Marek Śmieja / (wolne 45 min)                   | CPLEX Optimizer                                            |
+|  8.06 | Jacek, Bartek, Łukasz, Marek                       | Inpainting                                                 |
 | 15.06 | Igor Sieradzki                                     | AlphaZero                                                  |
 | 22.06 |                                                    |                                                            |
 
