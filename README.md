@@ -16,6 +16,6 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |-------|----------------------------------------------------|----------------------------------------------------------- |     
 |  8.06 | Jacek, Bartek, Łukasz, Marek                       | Inpainting                                                 |
 | 15.06 | TFML / Igor Sieradzki                              | TFML / AlphaZero                                           |
-| 22.06 |                                                    |                                                            |
+| 22.06 | Jacek, Bartek, Łukasz, Marek                       | Inpainting #2                                              |
 | 29.06 |                                                    |                                                            |
 
