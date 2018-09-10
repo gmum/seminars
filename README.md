@@ -6,8 +6,8 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | Date  | Speaker                                            | Title                                                      |
 |-------|----------------------------------------------------|----------------------------------------------------------- |
 |  4.10 |                                                    |                                                            |
-| 11.10 | Jarek Hryszko                                      | TBD                                                           |
-| 18.10 |                                                    |                                                            |
+| 11.10 | Jarek Hryszko                                      | TBD                                                        |
+| 18.10 | Paweł Bogdan                                       | TBD                                                        |
 | 25.10 |                                                    |                                                            |
 |  1.11 |                                                    |                                                            |
 |  8.11 |                                                    |                                                            |
