@@ -18,7 +18,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  5.10 |                                                    |                                                            |
 | 12.10 |                                                    |                                                            |
 | 19.10 |                                                    |                                                            |
-| 26.10 | Stanisław Jastrzębski                              | TBD                                                        |
+| 26.10 | Stanisław Jastrzębski                              | Deep Red Herring                                                        |
 |  2.11 |                                                    |                                                            |
 |  9.11 |                                                    |                                                            |
 
