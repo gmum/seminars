@@ -17,7 +17,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |------:|----------------------------------------------------|-----------------------------------------------------------------------|
 | 12.10 |                                                    |                                                                       |
 | 19.10 |                                                    |                                                                       |
-| 26.10 | Stanisław Jastrzębski                              | SGD as the Cancer of Deep Learning                                    |
+| 26.10 | Stanisław Jastrzębski                              | Early Phase of Training of DNNs                                    |
 |  2.11 | *cancelled*                                        | *cancelled*                                                           |
 |  9.11 | Jacek Tabor                                        | TBD                                                                   |
 | 16.11 |                                                    |                                                                       |
