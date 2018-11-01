@@ -7,7 +7,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |------:|----------------------------------------------------|-----------------------------------------------------------------------|
 | 25.10 | Tomasz Danel                                       | Wstęp do domain adaptation                                            |
 |  1.11 | *All Saints' Day*                                  | *All Saints' Day*                                                     |
-|  8.11 |                                                    |                                                                       |
+|  8.11 | Maciej Wołczyk                                     | TBD                                                                   |
 | 15.11 | Paweł Morawiecki                                   | Zwodnicze przykłady (ang. adversarial examples) dla sieci neuronowych |
 | 22.11 |                                                    |                                                                       |
 | 29.11 |                                                    |                                                                       |
@@ -19,6 +19,6 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  2.11 | *cancelled*                                        | *cancelled*                                                           |
 |  9.11 | Jacek Tabor                                        | TBD                                                                   |
 | 16.11 |                                                    |                                                                       |
-| 23.11 |                                                    |                                                                       |
+| 23.11 | Aleksandra Nowak                                   | TBD                                                                   |
 | 30.11 | Krzysztof Misztal                                  | TBD                                                                   |
 
