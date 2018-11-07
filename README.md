@@ -17,7 +17,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |------:|----------------------------------------------------|-----------------------------------------------------------------------|
 |  2.11 | *cancelled*                                        | *cancelled*                                                           |
 |  9.11 | Jacek Tabor                                        | TBD                                                                   |
-| 16.11 |                                                    |                                                                       |
+| 16.11 | Klocek, Maziarka, Tabor                            | Hypernetworks                                                         |
 | 23.11 | Aleksandra Nowak                                   | TBD                                                                   |
 | 30.11 | Krzysztof Misztal                                  | TBD                                                                   |
 |  7.12 |                                                    |                                                                       |
