@@ -8,7 +8,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  1.11 | *All Saints' Day*                                  | *All Saints' Day*                                                     |
 |  8.11 | Maciej Wołczyk                                     | TBD                                                                   |
 | 15.11 | Paweł Morawiecki                                   | Zwodnicze przykłady (ang. adversarial examples) dla sieci neuronowych |
-| 22.11 |                                                    |                                                                       |
+| 22.11 | Martyna Chruściel                                  | Naśladowanie ludzkiej percepcji w generacji obrazów                   |
 | 29.11 | Oleksandr Zakharchuk                               | TBD                                                                   |
 |  6.12 |                                                    |                                                                       |
 
