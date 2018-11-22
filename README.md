@@ -9,7 +9,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 |  8.11 | Maciej Wołczyk                                     | TBD                                                                   |
 | 15.11 | Paweł Morawiecki                                   | Zwodnicze przykłady (ang. adversarial examples) dla sieci neuronowych |
 | 22.11 | Martyna Chruściel                                  | Naśladowanie ludzkiej percepcji w generacji obrazów                   |
-| 29.11 | Oleksandr Zakharchuk                               | TBD                                                                   |
+| 29.11 | IBM                                                | TBD                                                                   |
 |  6.12 |                                                    |                                                                       |
 
 ### Tea Seminar (Fridays 10 am.)
