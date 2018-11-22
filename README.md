@@ -11,6 +11,9 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | 22.11 | Martyna Chruściel                                  | Naśladowanie ludzkiej percepcji w generacji obrazów                   |
 | 29.11 | IBM                                                | TBD                                                                   |
 |  6.12 |                                                    |                                                                       |
+| 13.12 | Nokia                                              | TBD                                                                   |
+| 20.12 |                                                    |                                                                       |
+| 27.12 | *Christmas Break*                                  | *Christmas Break*                                                     |
 
 ### Tea Seminar (Fridays 10 am.)
 | Date  | Speaker                                            | Title                                                                 |
@@ -21,4 +24,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | 23.11 | Aleksandra Nowak                                   | TBD                                                                   |
 | 30.11 | Krzysztof Misztal                                  | TBD                                                                   |
 |  7.12 |                                                    |                                                                       |
+| 14.12 |                                                    |                                                                       |
+| 21.12 |                                                    |                                                                       |
+| 28.12 | *Christmas Break*                                  | *Christmas Break*                                                     |
 
