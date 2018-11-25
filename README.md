@@ -12,7 +12,7 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | 29.11 | IBM                                                | TBD                                                                   |
 |  6.12 |                                                    |                                                                       |
 | 13.12 | Nokia                                              | TBD                                                                   |
-| 20.12 |                                                    |                                                                       |
+| 20.12 | Paulina Czubaj + ???                               | TBD                                                                   |
 | 27.12 | *Christmas Break*                                  | *Christmas Break*                                                     |
 
 ### Tea Seminar (Fridays 10 am.)
