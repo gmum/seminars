@@ -6,10 +6,10 @@ Repository for seminar schedule (and slides in ipython notebook format, but no o
 | Date  | Speaker                             | Title                                                                             |
 |------:|-------------------------------------|-----------------------------------------------------------------------------------|
 | 13.12 | Piotr Popik                         | W poszukiwaniu systemu automatycznej analizy wokalizacji ultradźwiękowych gryzoni |
-| 20.12 | Jakub Nowak                         | Kompresja zdjęć (przegląd SOTA)                                                   |
+| 20.12 | *cancelled*                         | *cancelled*                                                                       |
 | 27.12 | *Christmas Break*                   | *Christmas Break*                                                                 |
 |  3.01 |                                     |                                                                                   |
-| 10.01 | Nokia ?                             |                                                                                   |
+| 10.01 | Jakub Nowak                         | Kompresja zdjęć (przegląd SOTA)                                                   |
 | 17.01 | Nokia ?                             |                                                                                   |
 
 ### Tea Seminar (Fridays 10 am.)
