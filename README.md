@@ -1,3 +1,6 @@
+# Important Note
+Currently all seminars are listed on the GMUM webpage ([gmum.net](http://gmum.net/index.php?m=seminars)), and the tables below may be outdated!
+
 # Seminars
 Repository for seminar schedule (and slides in ipython notebook format, but no one really adds them).
 
